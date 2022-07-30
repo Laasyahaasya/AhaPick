@@ -1,4 +1,4 @@
-package cha.Jquery;
+package charitha;
 
 import java.util.List;
 
