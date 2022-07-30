@@ -5,8 +5,8 @@ import org.testng.annotations.BeforeTest;
 
 public class FirstPrograminJava {
   @Test
-  public void f() {
-	  System.out.println("Hello World");
+  public void java() {
+	  System.out.println("Hello GitHub");
   }
   @BeforeTest
   public void beforeTest() {
